@@ -47,4 +47,4 @@ Artists:
   - [Mountain (山)](https://www.pixiv.net/en/artworks/106047489)
 
 ***
-If you're an artist and want your art removed, please don't hesitate to tell me. I will absolutely respect your wishes.
+If you're an artist and want your art removed, *please* don't hesitate to tell me. I will absolutely respect your wishes!
