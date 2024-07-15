@@ -1,7 +1,7 @@
 # mimvoid's wallpaper stash
 A collection of various wallpapers I've found!
 
-![alena-aenami_endless](alena-aenami_endless.jpg)
+![alena-aenami_endless](wallpapers/alena-aenami_endless.jpg)
 
 Many of these came from sources like Alpha Coders and Wallhaven, but I try my best to track down every artist. If I happen to have an illustration I don't know the artist of, but you do, please tell me and I will add it here.
 
