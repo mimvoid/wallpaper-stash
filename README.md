@@ -3,7 +3,7 @@
 
 ![alena-aenami_endless](wallpapers/alena-aenami_endless.jpg)
 
-Many of these came from sources like Alpha Coders and Wallhaven, but I try my best to track down every artist. If I happen to have an illustration I don't know the artist of, but you do, please tell me and I will add it here.
+Many of these were found through sources like Alpha Coders and Wallhaven, but I try my best to track down every artist. If I happen to have an illustration I don't know the artist of, but you do, please tell me and I will add it here.
 
 File names are in the format: artist-name_title-name.filetype
 - Title names in quotes are unofficial, and only used when none is known or there is no translation
