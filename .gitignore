@@ -1,18 +1,3 @@
-# Nix
-result/
-
-# Sass
-.sass-cache/
-*.css.map
-*.sass.map
-*.scss.map
-
-# Project-specific marks
-nvim.shada
-
-# Syncthing
-.stfolder/
-
-# Nextcloud
 .*sync.log
 .sync_*.db*
+.sync*.lst

@@ -1,8 +1,0 @@
-@use "./palettes/palette";
-@use "./variables/fonts";
-@use "./variables/looks";
-
-.dashboard box {
-  font-size: fonts.$font-size * 2;
-  padding: 12px;
-}

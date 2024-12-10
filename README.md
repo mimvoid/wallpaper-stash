@@ -1,239 +1,249 @@
-<h1 align="center">mimvoid's nixos & home manager dotfiles</h1>
+<h1 align="center">mimvoid's wallpaper stash</h1>
+<p align="center">A collection of various wallpapers I've found!</p>
 
-<p align="center">This is where I keep my configuration files, links to helpful resources, and some pieces of advice from my experience with NixOS.</p>
+![alena-aenami_endless](wallpapers/alena-aenami_endless.jpg)
 
-#### Hyprland
+Many of these were found through sources like Alpha Coders and Wallhaven, but I try my best to track down every artist. If I happen to have an illustration I don't know the artist of, but you do, please tell me and I will add it here.
 
-![Screenshot: Hyprland with my custom fetcher fletchling and eza][i1]
+File names are in the format: artist-name_title-name.filetype
+- Title names in quotes are unofficial, and only used when none is known or there is no translation
+- Names in parenthesis are the originals, next to their translations or unofficial title
 
-![Screenshot: dooit with Tauon music player and Thunar file manager][i2]
+## Artists
 
-![Screenshot: Ethereal jellyfish wallpaper by gracile with a notification saying "'pwease im dwowning' obama: then perish"][i3]
+**Aeuna**: [Instagram](https://www.instagram.com/aeuna._/), [Twitter](https://x.com/byAeuna)
+<details>
+    <summary>
+        <a href="https://x.com/byAeuna/status/1667749176443289600/photo/1">Under the Blue Sky 1</a>
+    </summary>
+    <img src="./wallpapers/aeuna_under-the-blue-sky-1.jpg"/>
+</details>
 
-#### XFCE
+<details>
+    <summary>
+        <a href="https://x.com/byAeuna/status/1667749176443289600/photo/4">Under the Blue Sky 4</a>
+    </summary>
+    <img src="./wallpapers/aeuna_under-the-blue-sky-4.jpg"/>
+</details>
+<br>
 
-![Screenshot: XFCE with disfetch][i4]
+**Alena Aenami**: [Artstation](https://www.artstation.com/aenamiart)
+<details>
+    <summary>
+        <a href="https://www.artstation.com/artwork/4bX4eY">Endless</a>
+    </summary>
+    <img src="./wallpapers/alena-aenami_endless.jpg"/>
+</details>
 
-My Firefox CSS: [panefox][1]
+<details>
+    <summary>
+        <a href="https://www.artstation.com/artwork/Ya4WAb">Someday</a>
+    </summary>
+    <img src="./wallpapers/alena-aenami_someday.jpg"/>
+</details>
+<br>
 
-My wallpapers and credits: [wallpaper-stash][2]
+**Axle (鳥)**: [Pixiv](https://www.pixiv.net/en/users/8236670)
+<details>
+    <summary>
+        <a href="https://www.pixiv.net/en/artworks/71328482">Autumn Colors (秋色)</a>
+    </summary>
+    <img src="./wallpapers/axle_autumn-colors.jpg"/>
+</details>
 
-My Neovim config: [neovim-dots][3]
+<details>
+    <summary>
+        <a href="https://www.pixiv.net/en/artworks/97618640">"birds"</a>
+    </summary>
+    <img src="./wallpapers/axle_birds.jpg"/>
+</details>
 
-[i1]: assets/2024-11-27_hyprland-1.png
-[i2]: assets/2024-11-27_hyprland-2.png
-[i3]: assets/2024-11-27_hyprland-3.png
-[i4]: assets/2024-07-09_xfce.png
-[1]: https://github.com/mimvoid/panefox
-[2]: https://github.com/mimvoid/wallpaper-stash
-[3]: https://github.com/mimvoid/neovim-dots
+<details>
+    <summary>
+        <a href="https://www.pixiv.net/en/artworks/70458152">End of the Summer</a>
+    </summary>
+    <img src="./wallpapers/axle_end-of-the-summer.jpg"/>
+</details>
 
-# What I Use
+<details>
+    <summary>
+        <a href="https://www.pixiv.net/en/artworks/70142035">Summer (夏)</a>
+    </summary>
+    <img src="./wallpapers/axle_summer.jpg"/>
+</details>
+<br>
 
-Desktop Environments & Window Managers
+**BAKAIRIS**: [Artstation](https://www.artstation.com/bakairis)
+<details>
+    <summary>
+        <a href="https://www.artstation.com/artwork/YK8DNq">"rainy world" (亚特兰市郊)</a>
+    </summary>
 
-- [Hyprland][w1]
-- [XFCE][w2] with [xfwm][w3] & [cortile][w4]
+Edited version from JaKooLit's [Wallpaper Bank](https://github.com/JaKooLit/Wallpaper-Bank)
 
-Login Manager: [greetd][w5] with [tuigreet][w6]
+<img src="./wallpapers/bakairis_rainy-world.png"/>
+</details>
+<br>
 
-[w1]: https://hyprland.org
-[w2]: https://xfce.org
-[w3]: https://docs.xfce.org/xfce/xfwm4/start
-[w4]: https://github.com/leukipp/cortile
-[w5]: https://sr.ht/~kennylevinsen/greetd
-[w6]: https://github.com/apognu/tuigreet
+**Bastien Grivet**: [Artstation](https://www.artstation.com/grivetart)
+<details>
+    <summary>
+        <a href="https://www.artstation.com/artwork/3WdYo">Ubaye Valley</a>
+    </summary>
+    <img src="./wallpapers/bastien-grivet_ubaye-valley.jpg"/>
+</details>
+<br>
 
-| Applications     |                             |
-| ---------------- | --------------------------- |
-| Terminal         | [kitty][a1]                 |
-| Editor           | [Neovim][a2] (with [nixPatch][a3]) |
-| GUI file manager | [Thunar][a4]                |
-| TUI file manager | [yazi][a5]                  |
-| Web browser      | [Firefox][a6]               |
-| Art program      | [Krita][a7]                 |
-| Document viewer  | [Zathura][a8]               |
-| To-do list       | [dooit][a9]                 |
-| Music player     | [Tauon][a10]                |
+**Bis Biswas**: [Artstation](https://www.artstation.com/imbis), [DeviantArt](https://www.deviantart.com/bisbiswas)
+<details>
+    <summary>
+        <a href="https://www.deviantart.com/bisbiswas/art/Abandoned-Cottage-949858161">Abandoned Cottage</a>
+    </summary>
+    <img src="./wallpapers/bis-biswas_abandoned-cottage.jpg"/>
+</details>
+<br>
 
-[a1]: https://sw.kovidgoyal.net/kitty
-[a2]: https://neovim.io
-[a3]: https://github.com/NicoElbers/nixPatch-nvim
-[a4]: https://docs.xfce.org/xfce/thunar/start
-[a5]: https://github.com/sxyazi/yazi
-[a6]: https://firefox.com
-[a7]: https://krita.org
-[a8]: https://git.pwmt.org/pwmt/zathura
-[a9]: https://github.com/dooit-org/dooit
-[a10]: https://tauonmusicbox.rocks
+**DANGERDROP / ARQISAT**: [Tumblr](https://dangerdrop.tumblr.com/)
+<details>
+    <summary>
+        <a href="https://dangerdrop.tumblr.com/post/140761882420/u620">"coffee </a>
+        <a href="https://www.pixiv.net/en/artworks/55725854">roadtrip"</a>
+    </summary>
+    <img src="./wallpapers/dangerdrop_coffee-roadtrip.jpg"/>
+</details>
+<br>
 
-| Hyprland-specific  |                                   |
-| ------------------ | --------------------------------- |
-| Lockscreen         | [hyprlock][h1]                    |
-| Bar                | [AGS][h2]                         |
-| Notifications      | [AGS][h2] ([mako][h3]-like style) |
-| Logout menu        | [AGS][h2]                     |
-| Launcher           | [fuzzel][h4]                      |
-| Wallpaper          | [swww][h5]                        |
-| Screen temperature | [wlsunset][h6]                    |
-| Screenshot         | [hyprshot][h7]                    |
-| Color picker       | [hyprpicker][h8]                  |
+**Elias Stern**: [Artstation](https://www.artstation.com/elias_stern)
+<details>
+    <summary>
+        <a href="https://www.artstation.com/artwork/5DmxW">Sunrise Speed Panorama</a>
+    </summary>
+    <img src="./wallpapers/elias-stern_sunrise.jpeg"/>
+</details>
+<br>
 
-[h1]: https://wiki.hyprland.org/Hypr-Ecosystem
-[h2]: https://github.com/Aylur/ags
-[h3]: https://github.com/emersion/mako
-[h4]: https://codeberg.org/dnkl/fuzzel
-[h5]: https://github.com/LGFae/swww
-[h6]: https://sr.ht/~kennylevinsen/wlsunset
-[h7]: https://github.com/Gustash/hyprshot
-[h8]: https://github.com/hyprwm/hyprpicker
+**Gracile**: [Landing page](https://lit.link/en/gracilejp), [website](https://www.gracile.jp)
 
-| Theming         |                                             |
-| --------------- | ------------------------------------------- |
-| GTK theme       | [Rose Pine Moon][t1]                        |
-| Cursor          | [Rose Pine Dawn cursor][t2]                 |
-| Icons           | [Papirus][t3] with [Catppuccin folders][t4] |
-| Sans serif font | [Karla][t5]                                 |
-| Monospace font  | [Hasklug Nerd Font][t6] ([Hasklig][t7])     |
-| Display font    | [Limelight][t8]                             |
+<details>
+    <summary>
+        <a href="https://x.com/gracile_jp/status/1352278374903779329/photo/2">"blue 2"</a>
+    </summary>
+    <img src="./wallpapers/gracile_blue-2.jpg"/>
+</details>
+<details>
+    <summary>
+        <a href="https://x.com/gracile_jp/status/1352278374903779329/photo/4">"blue 4"</a>
+    </summary>
+    <img src="./wallpapers/gracile_blue-4.jpg"/>
+</details>
+<details>
+    <summary>
+        <a href="https://x.com/gracile_jp/status/1389577498862620673/photo/2">"branches"</a>
+    </summary>
+    <img src="./wallpapers/gracile_branches.jpg"/>
+</details>
+<details>
+    <summary>
+        <a href="https://wallhaven.cc/w/e7d368">"clouds"</a>
+    </summary>
+    <p>Original source unknown</p>
+    <img src="./wallpapers/gracile_clouds.jpg"/>
+</details>
+<details>
+    <summary>
+        <a href="https://x.com/gracile_jp/status/1168895118784507910/photo/2">Edge of Summer</a>
+    </summary>
+    <img src="./wallpapers/gracile_edge-of-summer.jpg"/>
+</details>
+<details>
+    <summary>
+        <a href="https://x.com/gracile_jp/status/1707043713552368033/photo/1">"grasses"</a>
+    </summary>
+    <img src="./wallpapers/gracile_grasses.jpg"/>
+</details>
+<details>
+    <summary>
+        <a href="https://x.com/gracile_jp/status/1411382155498770433/photo/4">"small grasses"</a>
+    </summary>
+    <img src="./wallpapers/gracile_small-grass.jpg"/>
+</details>
+<details>
+    <summary>
+        <a href="https://x.com/gracile_jp/status1497202048840118277/photo/1">Jellyfish</a>
+    </summary>
+    <img src="./wallpapers/gracile_jellyfish.jpg"/>
+</details>
+<details>
+    <summary>
+        <a href="https://x.com/gracile_jp/status/1356610926397558785/photo/3">"overgrown"</a>
+    </summary>
+    <img src="./wallpapers/gracile_overgrown.jpg"/>
+</details>
+<details>
+    <summary>
+        <a href="https://x.com/gracile_jp/status/1406328138607456258/photo/2">"over the clouds"</a>
+    </summary>
+    <img src="./wallpapers/gracile_over-the-clouds.jpg"/>
+</details>
+<details>
+    <summary>
+        <a href="https://wallhaven.cc/w/ex2dol">Gracile? "savanna"</a>
+    </summary>
+    <p>Original source unknown</p>
+    <img src="./wallpapers/gracile_savanna.jpg"/>
+</details>
+<details>
+    <summary>
+        <a href="https://x.com/gracile_jp/status/1789598350595293328">"twilight"</a>
+    </summary>
+    <img src="./wallpapers/gracile_twilight.jpg"/>
+</details>
+<br>
 
-[t1]: https://github.com/rose-pine/gtk
-[t2]: https://github.com/rose-pine/cursor
-[t3]: https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
-[t4]: https://github.com/catppuccin/papirus-folders
-[t5]: https://github.com/googlefonts/karla
-[t6]: https://www.nerdfonts.com
-[t7]: https://github.com/i-tu/Hasklig
-[t8]: https://fonts.google.com/specimen/Limelight
+**Han Yijie**: [Danbooru](https://danbooru.donmai.us/posts?tags=han_yijie)
+<details>
+    <summary>
+        <a href="https://danbooru.donmai.us/posts/1847025?q=han_yijie">Departure (出航)</a>
+    </summary>
+    <img src="./wallpapers/hanyijie_departure.jpg"/>
+</details>
+<br>
 
-- AGS icons: [Adwaita][e1]
-- Krita
-  - Theme: [Catppuccin Macchiato Maroon][e2]
-  - Brushes & Resources
-    - [Dirty Chalk for Children][e3]
-    - [Hollow brush][e4]
-    - [SK Sketching][e5]
-    - [Rakurri Gradient Map Set][e6]
-  - Plugins
-    - [Composition Helper][e7]
-    - [Reference Tabs Docker][e8]
-    - [Timer Watch][e9]
-- [Obsidian.md][e10] CSS snippets
+**Sam Yang**: [Landing page](https://linktr.ee/samdoesarts)
+<details>
+    <summary>
+        <a href="https://x.com/samdoesarts/status/1696555428228874444">Sunset</a>
+    </summary>
+    <p>Uncropped original unknown</p>
+    <img src="./wallpapers/sam-yang_sunset.png"/>
+</details>
+<br>
 
-[e1]: https://gitlab.gnome.org/GNOME/adwaita-icon-theme
-[e2]: https://github.com/catppuccin/kde
-[e3]: https://krita-artists.org/t/dirty-chalk-for-children-free/39643
-[e4]: https://krita-artists.org/t/i-made-a-hollow-brush/92064
-[e5]: https://krita-artists.org/t/sk-sketching-in-krita-v1/45795
-[e6]: https://krita-artists.org/t/rakurri-gradient-map-set-free-gradient-maps/33381
-[e7]: https://github.com/Grum999/CompositionHelper
-[e8]: https://invent.kde.org/freyalupen/reference-tabs-docker
-[e9]: https://github.com/EyeOdin/timer_watch
-[e10]: https://obsidian.md
+**milkgrrl / Shari Coté**: [Website](https://www.milkgrrl.com/home)
+<details>
+    <summary>
+        <a href="https://www.milkgrrl.com/portfolio?pgid=jja9jy5o-49abe1d5-7966-40a7-a66d-a163695ce767">Clouds</a>
+    </summary>
+    <img src="./wallpapers/shari-cote_clouds.png"/>
+</details>
+<br>
 
-### Extra Cool Stuff
+<details>
+    <summary>Tokyo Shinjuku: original unknown</summary>
 
-These are things I used that ended up not entirely fitting my use-case, but they're wonderful nonetheless and I totally respect and recommend them!
+Edited version from JaKooLit's [Wallpaper Bank](https://github.com/JaKooLit/Wallpaper-Bank)
 
-- [foot](https://codeberg.org/dnkl/foot), lightweight terminal emulator for Wayland
+<img src="./wallpapers/tokyo-shinjuku.png"/>
+</details>
+<br>
 
-# Resources
+**XilmO**: [Pixiv](https://www.pixiv.net/en/users/19389056), [Artstation](https://www.artstation.com/yhl)
+<details>
+    <summary>
+        <a href="https://www.pixiv.net/en/artworks/106047489">Mountain (山)</a>
+    </summary>
+    <img src="./wallpapers/xilmo_mountain.png"/>
+</details>
 
-### Nix & NixOS Sources
-
-Official:
-
-- [NixOS website][n1]
-- [Nix package manager & NixOS download][n2]
-  - The `nix-env` package manager works like most other package managers.
-  - However, I'd advise against it if you really want to get into Nix's declarative nature
-    - Unless all you want is just a good package manager
-- [Nix ecosystem documentation][n3]
-  - [Nix language guide][n4]
-- [NixOS wiki][n5]
-- Search
-  - [Search Nix packages][n6]
-  - [Search NixOS options][n7]
-
-Unofficial:
-
-- [Awesome Nix][n8]
-- Flakes
-  - [NixOS & Flakes Book][n9]
-  - [Very helpful guide to Nix flakes][n10]
-  - Nix flakes may seem daunting at first, but they make it super easy to add extra sources and configuration options. Plus, they're declarative while nix channels are not.
-- [Nix User Repository (NUR)][n11]
-- [User-maintained NixOS wiki][n12]
-  - [Nix applications and ecosystem][n13]
-- [Remember to optimize your NixOS storage][n14]
-
-[n1]: https://nixos.org
-[n2]: https://nixos.org/download
-[n3]: https://nix.dev
-[n4]: https://nix.dev/tutorials/nix-language
-[n5]: https://wiki.nixos.org/wiki/NixOS_Wiki
-[n6]: https://search.nixos.org/packages
-[n7]: https://search.nixos.org/options
-[n8]: https://github.com/nix-community/awesome-nix
-[n9]: https://nixos-and-flakes.thiscute.world
-[n10]: https://nixos-and-flakes.thiscute.world/nixos-with-flakes/introduction-to-flakes
-[n11]: https://nur.nix-community.org
-[n12]: https://nixos.wiki
-[n13]: https://nixos.wiki/wiki/Applications
-[n14]: https://www.reddit.com/r/NixOS/comments/1cunvdw/friendly_reminder_optimizestore_is_not_on_by
-
-### Home Manager
-
-A declarative approach to configuring your user environment! It's like NixOS's configuration file, but only for the home directory. It's great if you want to tinker without adding a bunch of generations to your boot menu, or use different configurations for users on the same system.
-
-It can work on other distros too—I tried it on openSUSE Tumbleweed, though not long-term.
-
-- [Home Manager][hm1]
-- [Home Manager manual][hm2]
-- [Home Manager configuration options manual][hm3]
-- [Search Home Manager options][hm4]
-
-[hm1]: https://github.com/nix-community/home-manager
-[hm2]: https://nix-community.github.io/home-manager
-[hm3]: https://nix-community.github.io/home-manager/options.xhtml
-[hm4]: https://home-manager-options.extranix.com
-
-### Extras
-
-I mainly use NixOS and Home Manager, but here are some other interesting tools.
-
-- [nh][em1], a pretty wrapper for rebuilding
-- [NixVim][em2], for configuring Neovim and its plugins declaratively
-  - [Documentation][em3]
-- [Stylix][em5], for quick universal colorschemes and fonts
-  - [Documentation][em6]
-- [nix-flatpak][em4], for managing Flatpaks declaratively
-
-[em1]: https://github.com/viperML/nh
-[em2]: https://github.com/nix-community/nixvim
-[em3]: https://nix-community.github.io/nixvim
-[em5]: https://github.com/danth/stylix
-[em6]: https://danth.github.io/stylix/options/nixos.html
-[em4]: https://github.com/gmodena/nix-flatpak
-
-# Pieces of Advice
-
-- Use `nix path-info nixpkgs#<package-name>`!
-  - Trust me, it is _not_ fun to manually search through `nix/store/` to find a specific package file
-  - The sooner you're know this, the better!
-- If you want a starter config, start small!
-  - You can understand a lot by doing things yourself
-  - And configs that are too complex may confuse you out of changing them
-  - If you really want a config without the manual effort, NixOS is probably not for you
-- NixOS documentation is truly sparse
-  - To dig deep, don't be afraid to look through the source code and manuals
-  - You can do a ton on NixOS, but it takes time, effort, and undoubtly frustration
-- You don't need to rely on the options NixOS and Home Manager give you to create config files
-  - NixOS has `environment.etc."path/file.type"`, meaning `etc/path/file.type`
-  - Home Manager has many:
-    - `home.file."path/file.type"` means `home/user/path/file.type`
-    - `xdg.configFile."path/file.type"` means `~/.config/path/file.type`
-      - (Unless you changed your XDG config directory)
-  - You can use `"path/file.type".source = config.lib.file.mkOutOfStoreSymlink /absolute/path/to/file` to symlink an existing file to the location you want
-  - Or create your own modules
-- NixOS works very differently to other Linux distros, but that's why I enjoy it!
+***
+If you're an artist and want your art removed, *please* don't hesitate to tell me. I will absolutely respect your wishes!
