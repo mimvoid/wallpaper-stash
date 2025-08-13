@@ -559,6 +559,68 @@ Catppuccin-ified version from
 </details>
 <br />
 
+### mmAir
+
+[Patreon](https://www.patreon.com/mmAir),
+[Instagram](https://www.instagram.com/_mmair_),
+[DeviantArt](https://www.deviantart.com/mma1r)
+
+<details open><summary>
+
+#### [astray](https://www.deviantart.com/mma1r/art/astray-1142419055)
+
+</summary>
+
+![astray by mmAir](wallpapers/mmair_astray.png)
+
+</details>
+<details open><summary>
+
+#### [Moment of Solitude](https://www.deviantart.com/mma1r/art/Moment-Of-Solitude-1112178343)
+
+</summary>
+
+![Moment of Solitude by mmAir](wallpapers/mmair_moment-of-solitude.png)
+
+</details>
+<details open><summary>
+
+#### [Morning](https://www.deviantart.com/mma1r/art/Morning-1096234220)
+
+</summary>
+
+![Morning by mmAir](wallpapers/mmair_morning.png)
+
+</details>
+<details open><summary>
+
+#### [Seaside](https://www.deviantart.com/mma1r/art/Seaside-1212996245)
+
+</summary>
+
+![Seaside by mmAir](wallpapers/mmair_seaside.png)
+
+</details>
+<details open><summary>
+
+#### [Slow Life](https://www.deviantart.com/mma1r/art/Slow-Life-1103895184)
+
+</summary>
+
+![Slow Life by mmAir](wallpapers/mmair_slow-life.png)
+
+</details>
+<details open><summary>
+
+#### [Winter Morning](https://www.deviantart.com/mma1r/art/Winter-Morning-1129633519)
+
+</summary>
+
+![Winter Morning](wallpapers/mmair_winter-morning.png)
+
+</details>
+<br />
+
 ### Sam Yang
 
 [Landing page](https://linktr.ee/samdoesarts)
